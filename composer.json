@@ -1,5 +1,5 @@
 {
-	"name": "duccio/apns-php",
+	"name": "AlexCarmel/ApnsPHP",
 	"type": "library",
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
